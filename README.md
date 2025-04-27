@@ -47,7 +47,7 @@ Key Features:
 • Tree Maps: Utilizes tree maps for visual representation of data, aiding in the intuitive interpretation of revenue distribution across different categories and demographics.
 
 
-![Dashboard 2](https://github.com/avishekhganguly123/Credit_card_financial_dashboard/blob/eb1b84a2120c3902c5753ac4157e9239b466b98b/Credit_card_customer_report.png)
+![Dashboard 2](https://github.com/shreyashi1/Credit_card_financial_dashboard/blob/main/Credit_card_customer_report.png)
 
 
 
