@@ -34,7 +34,7 @@ key features:
 • Interactive Filters: Weekly date filters, card category filters, gender filters etc for customized analysis. </br>
 
 
-![Dashboard 1](https://github.com/avishekhganguly123/Credit_card_financial_dashboard/blob/b46accb63afb1cd027d7021807e30055f207d760/Credit_card_transaction_report.png)
+![Dashboard 1](https://github.com/shreyashi1/Credit_card_financial_dashboard/blob/main/Credit_card_transaction_report.png)
 
 
 ### Dashboard 2 : Credit Card Customer Report
